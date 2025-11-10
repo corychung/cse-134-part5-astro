@@ -1,0 +1,63 @@
+---
+import astroLogo from '../assets/astro.svg';
+import background from '../assets/background.svg';
+---
+
+<header>
+	<nav>
+		<ul id="mypopover" popover>
+			<li><a href="/index.html">Home</a></li>
+			<li><a href="/blog.html">Blogs</a></li>
+			<li><a href="/about.html">Me</a></li>
+		</ul>
+	</nav>
+</header>
+
+<style>
+	header {
+        background-color: var(--background-color, white);
+        border-bottom: var(--border-settings, 1px solid black);
+        width: 100%;
+        margin-bottom: 2rem;
+        nav {
+			display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0.5rem 2rem;
+			text-align: center;
+            ul {
+                list-style: none;
+                position: static;
+                display: flex;
+                gap: 2rem;
+                border: none;
+                background-color: var(--background-color, white);
+                a {
+                    text-decoration: none;
+                    color: var(--heading-text-color, black);
+                    font-weight: 500;
+                    font-family: "Clash Display";
+                }
+                a:hover {
+                    color: var(--text-color-hover, black);
+                }
+            }
+        }
+        button {
+            justify-self:end;
+            background: none;
+            cursor: pointer;
+            border: none;
+            text-align: right;
+            width:fit-content;
+            padding:0.5rem;
+            svg path {
+                stroke: var(--heading-text-color, black);
+                fill: none;
+            }
+            svg path:hover {
+                stroke: var(--text-color-hover, black);
+            }
+        }
+    }
+</style>

@@ -1,0 +1,21 @@
+---
+import Layout from '../layouts/Layout.astro';
+import BlogPost from '../components/BlogPost.astro';
+const allPosts = Object.values(import.meta.glob('./blog/*.md', { eager: true }));
+const pageTitle = "Blogs";
+---
+
+<Layout pageTitle = {pageTitle}>
+    <project-grid>
+        {allPosts.map((blog: any) => 
+        <BlogPost frontmatter={blog.frontmatter} url={blog.url}>{blog.frontmatter.title}</BlogPost>)}
+    </project-grid>
+</Layout>
+
+<style>
+    project-grid {
+        display: flex;
+        justify-content: center;
+        align-items: start;
+    }
+</style>
