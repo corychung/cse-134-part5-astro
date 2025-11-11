@@ -29,6 +29,7 @@ const { pageTitle } = Astro.props;
 		height: 100%;
 		display: flex;
 		min-height:100dvh;
+		background-color: var(--background-color);
 		main {
 			flex-grow: 1;
 			display: flex;
@@ -39,6 +40,6 @@ const { pageTitle } = Astro.props;
 	}
 	main {
 		max-width: 800px;
-		width: 100%;
+		width: min(100% - 2rem, 800px);
 	}
 </style>
