@@ -48,7 +48,7 @@ After taking stock of what I had and collected, I knew I had additional hardware
 
    ![A collage of the parts purchased from AliExpress](/media/images/aliexpress/aliexpress.jpeg)
 
-For the amount of stuff I got, $60 was honestly a steal. Thanks AliExpress!
+For the amount of stuff I got, $60 was honestly a steal. Thanks AliExpress!!
 
 ### Custom Software
 
