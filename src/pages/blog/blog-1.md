@@ -4,8 +4,8 @@ title: Duender 3D Printer
 author: Cory Chung
 description: "Learning a lot through building my own 3D printer"
 image:
-    url: ""
-    alt: ""
+    url: "../../assets/images/duender/duender.png"
+    alt: "Screenshot of the 3D model of the Duender 3D printer"
 pubDate: 2025-11-10
 tags: []
 ---
@@ -29,7 +29,7 @@ I knew I wanted to buy two Ender 3 printers to get this build done, but the main
 
 After searching for a while on Facebook Marketplace and OfferUp, I was able to find two printers for a combined total of around $70, which is a steal considering these printers retail for around $150 each. While they were slightly different versions (V2 and Pro), they were luckily still compatible with each other and would work well for my build.
 
-   ![Three of the purchased printers sitting in my garage workshop](/media/images/garage/garage.jpg)
+   ![Three of the purchased printers sitting in my garage workshop](../../assets/images/garage/garage.jpg)
 
 Look at all those printers! (also featuring my Bambu A1 mini)
 
@@ -37,7 +37,7 @@ Look at all those printers! (also featuring my Bambu A1 mini)
 
 After taking stock of what I had and collected, I knew I had additional hardware I needed to purchase. Luckily AliExpress helped with this, and since I had never used it before I was able to snatch up a lot of "new user" deals and get what I needed for around $60 USD total.
 
-   ![A collage of the parts purchased from AliExpress](/media/images/aliexpress/aliexpress.jpeg)
+   ![A collage of the parts purchased from AliExpress](../../assets/images/aliexpress/aliexpress.jpeg)
 
 For the amount of stuff I got, $60 was honestly a steal. Thanks AliExpress!
 
@@ -59,7 +59,7 @@ Going back to the hardware, the build for this particular printer was quite vari
 
 There were a ton of other configuration choices, so it was pretty difficult to make it to this point, but I think I'm pretty satisfied with my choices from a price to performance ratio. If I went too low I'd basically just have a slightly fancier Ender 3, and I wanted something a bit more upgraded than that.
 
-   ![A collection of all the parts I gathered so far](/media/images/parts/parts.jpg)
+   ![A collection of all the parts I gathered so far](../../assets/images/parts/parts.jpg)
 
 All the parts gathered and ready to be assembled!
 
@@ -68,7 +68,7 @@ Current State
 
 While I planned to finish this project in the summer, as all projects go, life gets in the way. So as of right now (November 2025), I'm still in the stage of building out the physical printer. So far I've gotten the frame itself (which it was a pain to square), all the necessary printed parts (shoutout to the UCSD makerspace), and a working set of dual Z axis components.
 
-   ![Current unfinished state of the printer](/media/images/printer/printer.jpg)
+   ![Current unfinished state of the printer](../../assets/images/printer/printer.jpg)
 
 Current state: frame done, Z motors set up (not pictured). Long way to go!
 

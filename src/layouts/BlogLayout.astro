@@ -1,9 +1,20 @@
 ---
 import Layout from '../layouts/Layout.astro';
-
 const { frontmatter } = Astro.props;
 ---
 <Layout pageTitle={frontmatter.title}>
     <p>Written by {frontmatter.author}</p>
+    <img src={frontmatter.image.url} width="300" alt={frontmatter.image.alt} />
     <slot />
 </Layout>
+
+<style is:global>
+    img  {
+        width: 80%;
+        aspect-ratio: 4/3;
+        height: auto;
+        display: block;
+        margin: 0rem auto 1rem;
+        border: 1px solid black;
+    }
+</style>
