@@ -31,7 +31,7 @@ After searching for a while on Facebook Marketplace and OfferUp, I was able to f
 
    ![Three of the purchased printers sitting in my garage workshop](../../assets/images/garage/garage.jpg)
 
-Look at all those printers! (also featuring my Bambu A1 mini)
+Look at all those printers! (also featuring my Bambu A1 mini printer)
 
 ### AliExpress
 
