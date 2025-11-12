@@ -77,7 +77,7 @@ Current State
 
 While I planned to finish this project in the summer, as all projects go, life gets in the way. So as of right now (November 2025), I'm still in the stage of building out the physical printer. So far I've gotten the frame itself (which it was a pain to square), all the necessary printed parts (shoutout to the UCSD makerspace), and a working set of dual Z axis components.
 
-   ![Current unfinished state of the printer](/media/images/printer/printer.jpg)
+   ![Current unfinished state of the printer](/media/images/printer/printer.JPG)
 
 Current state: frame done, Z motors set up (not pictured). Long way to go!
 
