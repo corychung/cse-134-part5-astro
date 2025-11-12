@@ -38,7 +38,7 @@ I knew I wanted to buy two Ender 3 printers to get this build done, but the main
 
 After searching for a while on Facebook Marketplace and OfferUp, I was able to find two printers for a combined total of around $70, which is a steal considering these printers retail for around $150 each. While they were slightly different versions (V2 and Pro), they were luckily still compatible with each other and would work well for my build.
 
-   ![Three of the purchased printers sitting in my garage workshop](/media/images/garage/garage.jpg)
+   ![Three of the purchased printers sitting in my garage workshop](/media/images/garage/garage.JPG)
 
 Look at all those printers! (also featuring my Bambu A1 mini)
 
@@ -68,7 +68,7 @@ Going back to the hardware, the build for this particular printer was quite vari
 
 There were a ton of other configuration choices, so it was pretty difficult to make it to this point, but I think I'm pretty satisfied with my choices from a price to performance ratio. If I went too low I'd basically just have a slightly fancier Ender 3, and I wanted something a bit more upgraded than that.
 
-   ![A collection of all the parts I gathered so far](/media/images/parts/parts.jpg)
+   ![A collection of all the parts I gathered so far](/media/images/parts/parts.JPG)
 
 All the parts gathered and ready to be assembled!
 
