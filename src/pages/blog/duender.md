@@ -2,13 +2,14 @@
 layout: ../../layouts/BlogLayout.astro
 title: Duender 3D Printer
 author: Cory Chung
-description: "Learning a lot through building my own 3D printer"
+description: "Learning a lot through building my own 3D printer."
 image:
-    url: "../../assets/images/duender/duender.png"
-    alt: "Screenshot of the 3D model of the Duender 3D printer"
+    url: "../duender.png"
+    alt: "Test"
 pubDate: 2025-11-10
 tags: []
 ---
+
 To summarize, **the Duender is a custom built 3D printer made from 2 of the most popular 3D printer of all time: the Ender 3.** By combining the parts from two of these printers (and adding a few more parts), we are able to create our _own custom printer._
 
 Check out the original author [Sergei Irbis's Youtube video](https://www.youtube.com/embed/zOplNhr5SfA") for more details.
