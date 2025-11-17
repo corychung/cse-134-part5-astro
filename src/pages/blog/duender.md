@@ -4,7 +4,7 @@ title: Duender 3D Printer
 author: Cory Chung
 description: "Learning a lot through building my own 3D printer."
 image:
-    url: "../duender.png"
+    url: "/duender.png"
     alt: "Test"
 pubDate: 2025-11-10
 tags: []

@@ -4,7 +4,7 @@ title: Portfolio Website
 author: Cory Chung
 description: "Building my portfolio website! (not this one)."
 image:
-    url: "../portfolio_thumbnail.png"
+    url: "/portfolio_thumbnail.png"
     alt: ""
 pubDate: 2025-11-10
 tags: []

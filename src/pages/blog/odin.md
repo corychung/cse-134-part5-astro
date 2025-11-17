@@ -4,7 +4,7 @@ title: Odin Web Dev Bootcamp
 author: Cory Chung
 description: "Learning frontend through a free online bootcamp."
 image:
-    url: "../odin.png"
+    url: "/odin.png"
     alt: ""
 pubDate: 2025-11-17
 tags: []
